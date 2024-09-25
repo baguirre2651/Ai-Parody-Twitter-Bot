@@ -10,10 +10,10 @@ For this project I thought it would be fun to create a parody bot account mimick
 
 
 # Here's the Gist of how it will work:
- #1. A user @mentions your bot @b_ryanaguirre_ or Bryan Aguirre (Parody)
- #2.The script starts by finding a new @mention and then reads the parent tweet it is being mentioned on
- #3.The script will then take that parent tweet and generates a witty response or own tweet using the language model (GPT 4)
- #4.Respond is posted and tweet is logged
+ - A user @mentions your bot @b_ryanaguirre_ or Bryan Aguirre (Parody)
+ -The script starts by finding a new @mention and then reads the parent tweet it is being mentioned on
+ -The script will then take that parent tweet and generates a witty response or own tweet using the language model (GPT 4)
+ -Respond is posted and tweet is logged
 
 
  # Fat Cat.JSON

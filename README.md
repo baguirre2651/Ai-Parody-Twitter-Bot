@@ -1,6 +1,5 @@
 ## Bryan Aguirre-Parody- LLM Twitter-Bot
-For this project I thought it would be fun to create a parody bot account mimicking and predicting funny and sarcastic tweets from myself using a Large Language Model 
-
+For this project I thought it would be fun to create a parody bot account mimicking and predicting funny and sarcastic tweets from myself using a Large Language Model.
 
 ![MAIN T](https://github.com/user-attachments/assets/a1867344-08ce-4e19-9b0a-200180df7fd4)  (main account)
 # Creating The Bryan Aguirre Twitter Parody
@@ -52,6 +51,19 @@ Used @Railway.app to host applictions from this repo.
 
 
 
+# Credits
+
+project was made for fun by @b_ryanaguirre to demonstrate the impact of Language Models
+
+soruces from 
+
+https://you.com/search?q=random+forest&fromSearchBar=true&tbm=youcode
+
+https://www.google.com/search?q=how+to+make+a+twitter+bot&rlz=1C1VDKB_enUS960US960&oq=how+to+make+a+twitter+bot&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQRRhAMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxBFGDzSAQgyNzIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
 
 
- 
+https://developer.x.com/en/docs/tutorials/how-to-create-a-twitter-bot-with-twitter-api-v2
+
+https://openai.com/
+
+

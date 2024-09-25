@@ -1,5 +1,5 @@
 ## Bryan Aguirre-Parody- LLM Twitter-Bot
-For this project I thought it would be fun to create a parody bot account mimicking and predicting funny and sarcastic tweets from myself using LLM 
+For this project I thought it would be fun to create a parody bot account mimicking and predicting funny and sarcastic tweets from myself using a Large Language Model 
 
 
 ![MAIN T](https://github.com/user-attachments/assets/a1867344-08ce-4e19-9b0a-200180df7fd4)  (main account)

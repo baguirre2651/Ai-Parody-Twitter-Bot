@@ -59,7 +59,7 @@ soruces from
 
 https://you.com
 
-https://www.google.com/search?q=how+to+make+a+twitter+bot&rlz=1C1VDKB_enUS960US960&oq=how+to+make+a+twitter+bot&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQRRhAMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxBFGDzSAQgyNzIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+[https://www.google.com/search?q=how+to+make+a+twitter+bot&rlz=1C1VDKB_enUS960US960&oq=how+to+make+a+twitter+bot&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQRRhAMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxBFGDzSAQgyNzIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8](https://blog.hubspot.com/website/how-to-make-a-twitter-bot)
 
 
 https://developer.x.com/en/docs/tutorials/how-to-create-a-twitter-bot-with-twitter-api-v2

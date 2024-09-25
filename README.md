@@ -38,11 +38,15 @@ Created a master job function using Python Schedule library to run the script to
 Pushed to Github (Remote Code Hosting)
 
 Used @Railway.app to host applictions from this repo.
-Railway(an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud)
-Creating our enviroment to run on scheduled time.
+- Railway(an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud)
+- Creating our enviroment to run on scheduled time.
 
 
 # Test on Twitter 
+![margret](https://github.com/user-attachments/assets/0e82c2ee-5ec6-4e51-a680-fa29af36b19a)
+
+![image](https://github.com/user-attachments/assets/23786135-0edd-499c-ba55-cfe506ab59c0)
+
 
 
 

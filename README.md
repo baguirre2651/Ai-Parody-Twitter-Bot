@@ -5,7 +5,7 @@ For this project I thought it would be fun to create a parody bot account mimick
 ![MAIN T](https://github.com/user-attachments/assets/a1867344-08ce-4e19-9b0a-200180df7fd4)  (main account)
 # Creating The Bryan Aguirre Twitter Parody
 
-![Parody](https://github.com/user-attachments/assets/49bf57bd-0c8c-4ec7-8454-fa9a32597577)
+![Parody](https://github.com/user-attachments/assets/49bf57bd-0c8c-4ec7-8454-fa9a32597577)  (parody)
 
 
 

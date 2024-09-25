@@ -25,7 +25,7 @@ For this project I thought it would be fun to create a parody bot account mimick
 
 # Reply Bot.py
  Created a twitter bot class top help organize code and manage shared state
-   - Used @Airtable to host database, since it is easy and all you need is a simple API 
+   - Used @Airtable to host database, since it is easy and all you need is a simple API key (can't show)
    - Checks how many tweets to repond to each time the program wakes up
    - using GPT 4 lanugae model with a tempature of .5 for creativity.
    - Go throughs our prompt and generate an output

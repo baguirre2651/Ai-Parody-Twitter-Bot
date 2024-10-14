@@ -53,9 +53,12 @@ Used @Railway.app to host applictions from this repo.
 
 # Credits
 
-project was made for fun by @b_ryanaguirre to demonstrate the impact of Language Models
+project was made for fun by @b_ryanaguirre to demonstrate the impact of ai and Language Models
 
-soruces from 
+# THE BOT
+https://x.com/b_ryanaguirre_
+
+# Sources from 
 
 https://you.com
 

@@ -56,7 +56,7 @@ Used @Railway.app to host applictions from this repo.
 project was made for fun by @b_ryanaguirre to demonstrate the impact of ai and Language Models
 
 # THE BOT
-https://x.com/b_ryanaguirre_
+[https://x.com/b_ryanaguirre_](http://x.com/b_ryanaguirre_)
 
 # Sources from 
 
@@ -68,5 +68,6 @@ https://you.com
 https://developer.x.com/en/docs/tutorials/how-to-create-a-twitter-bot-with-twitter-api-v2
 
 https://openai.com/
+
 
 
